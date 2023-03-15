@@ -1,0 +1,15 @@
+div{
+    background-color: aquamarine;
+    font-size: 25px;
+    margin: 20px;
+}
+
+ul li{
+    display: none;
+}
+ul:hover > li{
+    display: flex;
+    margin: 20px;
+   
+} 
+
